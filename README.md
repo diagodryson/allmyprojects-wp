@@ -8,9 +8,9 @@
 
 I put all the wordpress projects I did on this repository
 
-## How To See Your Projects
+## My Projects
 
-In progress..s
+In progress..
 
 ---
 
