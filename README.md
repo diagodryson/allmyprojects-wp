@@ -18,5 +18,3 @@ In progress..
 
 - Twitter - [@diagodryson](https://twitter.com/jamesqquick)
 - Linkedin - [@diagodryson](https://linkedin.com/in/diagodryson)
-
-[Back To The Top](#read-me-template)
