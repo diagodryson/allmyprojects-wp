@@ -18,4 +18,3 @@ In progress..
 
 - Twitter - [@diagodryson](https://twitter.com/jamesqquick)
 - Linkedin - [@diagodryson](https://linkedin.com/in/diagodryson)
-- Website - [Diago Dryson](diagodryson.com)
