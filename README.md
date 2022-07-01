@@ -1,6 +1,6 @@
 ## <p align="center">All my projects WordPress</p>
 
-![Project Image](wordpress-logo.png)
+![Project Image] (wordpress-logo.png)
 
 ---
 
