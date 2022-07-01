@@ -1,6 +1,6 @@
 ## <p align="center">All my projects WordPress</p>
 
-![Project Image] (wordpress-logo.png)
+![Project Image] (wordpress-logo.jpg)
 
 ---
 
@@ -10,7 +10,7 @@ I put all the wordpress projects I did on this repository
 
 ## How To See Your Projects
 
-In progress..
+In progress..s
 
 ---
 
