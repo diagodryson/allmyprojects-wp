@@ -10,7 +10,9 @@ I put all the wordpress projects I did on this repository
 
 ## My Projects
 
-In progress..
+https://wordpress.fedorageek.org/
+https://vinko-roditi.com/
+
 
 ---
 
