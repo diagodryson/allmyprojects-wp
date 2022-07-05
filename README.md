@@ -19,5 +19,5 @@ I put all the wordpress projects I did on this repository
 
 ## Author Info
 
-- Twitter - [@diagodryson](https://twitter.com/jamesqquick)
+- Twitter - [@diagodryson](https://twitter.com/diagodryson)
 - Linkedin - [@diagodryson](https://linkedin.com/in/diagodryson)
